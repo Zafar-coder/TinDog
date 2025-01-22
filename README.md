@@ -1,2 +1,3 @@
 # TinDog 
-<p></p>
+<h1>Meet new and interesting dogs nearby.</h1>
+<p>Meeting new and interesting dogs nearby is a delightful way to connect with furry companions and their owners. Whether at a local dog park or during community events, these encounters can brighten your day with wagging tails and playful energy. Each dog has its own unique personality, making every interaction special and heartwarming. Such moments not only offer joy but also provide an opportunity to learn about different breeds and their characteristics. So, step out, explore your neighborhood, and let these adorable canines add a dose of happiness to your life!</p>
